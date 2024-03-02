@@ -49,3 +49,19 @@ TravelTale utilizes ChatGPT for moderation and support, ensuring the authenticit
 ### License
 
 TravelTale is released under the MIT License. See the LICENSE file for more details.
+
+## Roadmap
+
+[ ] Adding tourints points
+  [ ] BE
+  [ ] FE
+[ ] Adding paths
+  [ ] BE
+  [ ] FE
+[ ] Guiders can register
+  [ ] BE
+  [ ] FE
+[ ] Finding path
+  [ ] BE
+  [ ] FE
+  [ ] Mobile
