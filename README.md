@@ -14,8 +14,8 @@ Welcome to TravelTale, the community-driven application that transforms the way 
 
 ### Technologies
 
-- **Backend:** Written in Haskell, ensuring a robust, efficient, and type-safe environment.
-- **Frontend:** Developed with Vue.js and TypeScript, offering a responsive and intuitive user interface.
+- **Backend:** Written in Haskell and Yesod
+- **Frontend:** Developed with HTMX
 - **Mobile Application:** Built with Flutter, providing a seamless experience across Android and iOS devices.
 
 ### Getting Started
