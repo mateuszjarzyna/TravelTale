@@ -55,12 +55,15 @@ TravelTale is released under the MIT License. See the LICENSE file for more deta
 [ ] Adding tourints points
   [ ] BE
   [ ] FE
+  
 [ ] Adding paths
   [ ] BE
   [ ] FE
+  
 [ ] Guiders can register
   [ ] BE
   [ ] FE
+  
 [ ] Finding path
   [ ] BE
   [ ] FE
